@@ -20,17 +20,16 @@ link-https://pjreddie.com/media/files/darknet53.conv.74
 
 NOTE-configuration files required for training and testing are stored in training and testing folder
 
-4.train the dataset using darknet
+5. Train the dataset using darknet
 (clone the darknet repository on drive)
 note:
 I have used google colab for training so you need to store the files on drive)
 (mount the drive)
 
-weights will be stored in backup folder on drive so before training create backup folder on drive
+Weights will be stored in backup folder on drive so before training create backup folder on drive
 
-5.test the custom detector using opencv.
-Or if you have machine with darknet installed with gpu
-then you can test custom detector on video directly on your machine)
+6. Test the custom detector using opencv.
+Or if you have machine with darknet installed with gpu then you can test custom detector on video directly on your machine)
 
 
 
