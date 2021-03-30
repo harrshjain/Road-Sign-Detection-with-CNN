@@ -19,7 +19,7 @@ Note: download following files:
 
 	link - https://pjreddie.com/media/files/darknet53.conv.74
 
-NOTE-configuration files required for training and testing are stored in training and testing folder
+NOTE: configuration files required for training and testing are stored in training and testing folder
 
 5. Train the dataset using darknet
 (clone the darknet repository on drive)
