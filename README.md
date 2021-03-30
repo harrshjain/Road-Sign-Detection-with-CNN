@@ -11,13 +11,13 @@ Note: download following files:
 (In our dataset folder name is maindata)
 
 2. Save the images in yolo format required for training
-(ie. jpg image and text file with same name eg.1.jpg and 1.txt)
+(i.e, jpg image and text file with same name eg.1.jpg and 1.txt)
 
 3. Create train.txt, test.txt, data.data and classes.names file using the py files)
 
 4. Before training download the weights required for training:
 
-link - https://pjreddie.com/media/files/darknet53.conv.74
+	link - https://pjreddie.com/media/files/darknet53.conv.74
 
 NOTE-configuration files required for training and testing are stored in training and testing folder
 
