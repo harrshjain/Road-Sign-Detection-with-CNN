@@ -1,0 +1,19 @@
+before training check the drive structure-
+
+1)darknet-this directory will be automatically created at given path
+          after cloning the darknet.
+
+2)backup-create this directory manually for storing the trained weights
+
+3)custom_data1-This directory consist 
+		1.jpg images
+		2.annotation files for each image(.txt format)
+		3.train.txt
+		4.test.txt
+		5.labelled_data.data
+		(All the files are must before training)
+4)custom_weight-weights required for training
+		file name-  darknet53.conv.74
+	       (if the training failed in betweeen then you can use weights stored in backup folder 
+		to start the training again.)
+                      
