@@ -2,9 +2,9 @@
 
 1. Download GTSB dataset from following link:
 
-https://benchmark.ini.rub.de/gtsdb_dataset.html
+	https://benchmark.ini.rub.de/gtsdb_dataset.html
 
-Note: download following files
+Note: download following files:
 
 	1. FullIJCNN2013.zip
 	2. gt.txt
@@ -13,11 +13,11 @@ Note: download following files
 2. Save the images in yolo format required for training
 (ie. jpg image and text file with same name eg.1.jpg and 1.txt)
 
-3. Create train.txt,test.txt,data.data and classes.names file using the py files)
+3. Create train.txt, test.txt, data.data and classes.names file using the py files)
 
-4. Before training download the weights required for training
+4. Before training download the weights required for training:
 
-link-https://pjreddie.com/media/files/darknet53.conv.74
+link - https://pjreddie.com/media/files/darknet53.conv.74
 
 NOTE-configuration files required for training and testing are stored in training and testing folder
 
