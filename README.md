@@ -3,8 +3,8 @@
 1. Download GTSB dataset from following link:
 
 https://benchmark.ini.rub.de/gtsdb_dataset.html
-Note:
-  download following files
+
+Note: download following files
 	1.FullIJCNN2013.zip
 	2.gt.txt
 (In our dataset folder name is maindata)
