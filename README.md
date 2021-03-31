@@ -8,7 +8,6 @@ Note: download following files:
 
 	1. FullIJCNN2013.zip
 	2. gt.txt
-(In our dataset folder name is maindata)
 
 2. Save the images in yolo format required for training
 (i.e, jpg image and text file with same name eg.1.jpg and 1.txt)
