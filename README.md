@@ -1,4 +1,4 @@
-# Road-Sign-Detection-with-CNN
+# Road-Sign-Detection-using-CNN
 
 1. Download GTSB dataset from following link:
 
